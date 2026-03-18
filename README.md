@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 OptimizerStudio v2.0.0</h1>
+  <h1>🚀 OptimizerStudio</h1>
   <p><b>Herramienta Educativa para la Programación Lineal y Optimización</b></p>
 
   [![Version](https://img.shields.io/badge/Versión-2.0.0-blue.svg)]()
