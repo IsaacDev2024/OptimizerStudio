@@ -2,7 +2,7 @@
   <h1>🚀 OptimizerStudio</h1>
   <p><b>Herramienta Educativa para la Programación Lineal y Optimización</b></p>
 
-  [![Version](https://img.shields.io/badge/Versión-2.0.0-blue.svg)]()
+  [![Version](https://img.shields.io/badge/Versión-2.0.3-blue.svg)]()
   [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)]()
   [![OS - macOS](https://img.shields.io/badge/OS-macOS-black?logo=apple)]()
   [![GitHub issues](https://img.shields.io/github/issues/IsaacDev2024/OptimizerStudio)](https://github.com/IsaacDev2024/OptimizerStudio/issues)
@@ -55,7 +55,7 @@ La aplicación es un ejecutable autónomo. **No se requiere** instalar Python, l
 
 *Requisitos: Windows 10 o superior.*
 
-1. Ve a la página de [Releases](https://github.com/IsaacDev2024/OptimizerStudio/releases) y descarga el archivo ejecutable `OptimizerStudio.exe`.
+1. Ve a la página de [Releases](https://github.com/IsaacDev2024/OptimizerStudio/releases) y descarga el archivo ejecutable `OptimizerStudio_Instalador.exe`.
 2. Haz doble clic para abrir la aplicación. ¡Listo!
 
 > **⚠️ Solución a bloqueo por parte de Windows Defender:**
