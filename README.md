@@ -2,7 +2,7 @@
   <h1>🚀 OptimizerStudio</h1>
   <p><b>Herramienta Educativa para la Programación Lineal y Optimización</b></p>
 
-  [![Version](https://img.shields.io/badge/Versión-2.0.3-blue.svg)]()
+  [![Version](https://img.shields.io/badge/Versión-2.0.4-blue.svg)]()
   [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)]()
   [![OS - macOS](https://img.shields.io/badge/OS-macOS-black?logo=apple)]()
   [![GitHub issues](https://img.shields.io/github/issues/IsaacDev2024/OptimizerStudio)](https://github.com/IsaacDev2024/OptimizerStudio/issues)
